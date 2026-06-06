@@ -125,7 +125,7 @@ The Random Forest model identified the following variables as the strongest pred
 
 These findings suggest that repayment burden and loan characteristics play a significant role in determining borrower creditworthiness.
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](Feature_importance.png)
 
 ---
 
